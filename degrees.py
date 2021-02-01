@@ -91,9 +91,10 @@ def shortest_path(source, target):
 
     If no possible path, returns None.
     """
-
-    # TODO
-    raise NotImplementedError
+    # prints id numbers
+    print(source)
+    print(target)
+    
 
 
 def person_id_for_name(name):
